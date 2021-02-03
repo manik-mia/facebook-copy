@@ -1,0 +1,22 @@
+@media all and (max-width: 960px) {
+	.header-section ul li.menu-bar {
+		display: inline-block;
+		font-size: 25px;
+	}
+	.header-section ul li.menu-bar a {
+		font-size: 30px;
+	}
+	.news-feed-menu {
+		display: none;
+	}
+	.header-section .search-box {
+	    margin-top: 35px;
+	}
+}
+@media all and (max-width: 574px) {
+	.logo-area img {
+		display: block;
+		width: 50%;
+		margin: auto;
+	}
+}
